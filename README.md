@@ -21,7 +21,7 @@
 
 ## ᴘʀᴇᴠɪᴇᴡ
 <p align="center">
-  <img src="https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg">
+  <img src="https://telegra.ph/file/e9bc1afdeec6d2640b34c.jpg">
 </p>
 
 ## ғᴇᴀᴛᴜʀᴇs
