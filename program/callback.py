@@ -42,7 +42,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/DarkSkull93/DemonGirl"
+                        "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://www.youtube.com/watch?v=XK18HTjsHW0&ab_channel=TelegramTechnology"
                     )
                 ],
             ]
