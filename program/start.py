@@ -82,7 +82,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://www.youtube.com/channel/UCJmPdyfFnsmt5CbIETVH-SQ"
+                        "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/DarkSkull93/DemonGirl"
                     )
                 ],
             ]
