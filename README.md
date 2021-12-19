@@ -3,10 +3,10 @@
 
 ## Join us
 <p>
-  <a href="https://t.me/Memes_Hub_Group" target="blank"><img src="https://img.shields.io/badge/@DEMONGIRL-30302f?style=flat&logo=telegram" /></a>
+  <a href="https://t.me/GalaxiaUpdateGroup" target="blank"><img src="https://img.shields.io/badge/@DEMONGIRL-30302f?style=flat&logo=telegram" /></a>
   <a href="https://t.me/Demon_Girl_Bot" target="blank"><img src="https://img.shields.io/badge/@DEMONGIRL-BOT-30302f?style=flat&logo=telegram" /></a>
   
-  <p align="center"><a href="https://t.me/Memes_Hub_Channel"><img src="https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg"></a></p>
+  <p align="center"><a href=""><img src="https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg"></a></p>
   <p align="center">
       <br><b>ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍ ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇʀᴀᴍ ʙᴏᴛ ᴛʜᴀᴛ's ᴀʟʟᴏᴡ ʏᴏᴜ ᴛᴏ ᴘʟᴀʏ ᴠɪᴅᴇᴏ & ᴍᴜsɪᴄ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ</b><br>
   </p>
@@ -47,5 +47,5 @@
 
 
 ### sᴜᴘᴘᴏʀᴛ & ᴜᴘᴅᴀᴛᴇs 
-<a href="https://t.me/Teletech_supportgroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Memes_Hub_Channel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/GalaxiaUpdateGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/GalaxiaUpdateChannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
