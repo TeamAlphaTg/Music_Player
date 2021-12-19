@@ -42,7 +42,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://t.me/Memes_Hub_Group"
+                        "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://t.me/GalaxiaSupportGroup"
                     )
                 ],
             ]
