@@ -3,8 +3,8 @@
 
 ## Join us
 <p>
-  <a href="https://t.me/GalaxiaUpdateGroup" target="blank"><img src="https://img.shields.io/badge/@DEMONGIRL-30302f?style=flat&logo=telegram" /></a>
-  <a href="https://t.me/Demon_Girl_Bot" target="blank"><img src="https://img.shields.io/badge/@DEMONGIRL-BOT-30302f?style=flat&logo=telegram" /></a>
+  <a href="https://t.me/GalaxiaUpdateGroup" target="blank"><img src="https://img.shields.io/badge/DEMONGIRL-30302f?style=flat&logo=telegram" /></a>
+  <a href="https://t.me/Demon_Girl_Bot" target="blank"><img src="https://img.shields.io/badge/DEMONGIRL-BOT-30302f?style=flat&logo=telegram" /></a>
   
   <p align="center"><a href=""><img src="https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg"></a></p>
   <p align="center">
