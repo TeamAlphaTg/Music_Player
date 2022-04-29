@@ -1,0 +1,101 @@
+{
+    "name": "Alpha Music player",
+    "repository": "https://github.com/Gishankrishka2/Music_Player/"
+	"logo": "https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg",
+    "env": {
+        "API_HASH": {
+            "description": "",
+            "required": "True"
+        },
+        "API_HASH": {
+            "description": "",
+            "required": "True"
+        },
+        "BOT_TOKEN": {
+            "description": "",
+            "required": "True"
+        },
+        "BOT_USERNAME": {
+            "description": "",
+            "required": "True"
+        },
+        "BOT_NAME": {
+            "description": "",
+            "required": "True"
+        },
+        "ASSISTANT_NAME": {
+            "description": "",
+            "required": "True"
+        },
+        "SESSION_NAME": {
+            "description": "",
+            "required": "True"
+        },
+        "SUDO_USERS": {
+            "description": "",
+            "required": "True"
+        },
+        "GROUP_SUPPORT": {
+            "description": "",
+            "required": "True"
+        },
+        "ASSISTANT_NAME": {
+            "description": "",
+            "required": "True"
+        },
+        "DURATION_LIMIT": {
+            "description": "",
+            "required": "True"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "",
+            "required": "True"
+        },
+        "OWNER_NAME": {
+            "description": "",
+            "required": "True"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "",
+            "required": "True"
+        },
+        "IMG_1": {
+            "description": "",
+            "required": "True"
+        },
+        "IMG_2": {
+            "description": "",
+            "required": "True"
+        },
+        "IMG_3": {
+            "description": "",
+            "required": "True"
+        },
+        "ALIVE_IMG": {
+            "description": "",
+            "required": "True"
+        },
+        "ALIVE_NAME": {
+            "description": "",
+            "required": "True"
+        }
+    },
+    "stack": "container",
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
