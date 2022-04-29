@@ -1,8 +1,19 @@
 {
     "name": "Alpha Music player",
-    "repository": "https://github.com/Gishankrishka2/Music_Player/"
-	"logo": "https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg",
-    "env": {
+    "repository": "https://github.com/Gishankrishka2/Music_Player/",
+  "keywords": [
+    "tgvoice",
+    "python",
+    "pytgcall"
+  ],
+  "website": "https://github.com/TeamAlphaTg/Music_Player",
+  "repository": "https://github.com/TeamAlphaTg/Music_Player",
+  "logo": "https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg",
+  "success_url": "/welcome",
+  "scripts": {
+    "postdeploy": "bundle exec rake bootstrap"
+  },
+	"env": {
         "API_HASH": {
             "description": "",
             "required": "True"
